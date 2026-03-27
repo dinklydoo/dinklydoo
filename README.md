@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinklydoo
-- 👀 I’m interested in Systems/Architecture, Algorithms and Machine Learning
+- 👀 I’m interested in Systems/Architecture, Algorithms and Programming Languages
 - 🌱 I’m currently studying a Bachelor's in Advanced Computing
 
 <!---
